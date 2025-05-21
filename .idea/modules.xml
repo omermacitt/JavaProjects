@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaProject.iml" filepath="$PROJECT_DIR$/.idea/JavaProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boldThinLetters/boldThinLetters.iml" filepath="$PROJECT_DIR$/boldThinLetters/boldThinLetters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isPrimeNumber/isPrimeNumber.iml" filepath="$PROJECT_DIR$/isPrimeNumber/isPrimeNumber.iml" />
+    </modules>
+  </component>
+</project>
