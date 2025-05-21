@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaProject.iml" filepath="$PROJECT_DIR$/.idea/JavaProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/boldThinLetters/boldThinLetters.iml" filepath="$PROJECT_DIR$/boldThinLetters/boldThinLetters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/findFriendNumber/findFriendNumber.iml" filepath="$PROJECT_DIR$/findFriendNumber/findFriendNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/findPerfectNumber/findPerfectNumber.iml" filepath="$PROJECT_DIR$/findPerfectNumber/findPerfectNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/isPrimeNumber/isPrimeNumber.iml" filepath="$PROJECT_DIR$/isPrimeNumber/isPrimeNumber.iml" />
     </modules>
